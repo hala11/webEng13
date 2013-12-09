@@ -6,15 +6,15 @@ fieldset {
 	border-radius: 5px; 
 }
 
-legend {
-	font-weight: bold;
-}
+
 table {
 	width: 100%;
 	padding: 5px;
 }
 
-
+label {
+	margin-left: 10px;
+}
 input {
 	padding: 5px;
 	margin: 10px;
@@ -27,5 +27,7 @@ input {
 }
 li {
 	margin: 10px;
-	align: middle;
+}
+img {
+	vertical-align: middle;
 }
